@@ -1,1 +1,5 @@
-print("hello from calculator")
+from random import randint as rd
+
+
+def test():
+    pass
